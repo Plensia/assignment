@@ -1,0 +1,82 @@
+@page {
+    size: A4;
+    margin: 1cm;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: #FFFFFF;
+    color: #000000;
+    font-size: 12pt;
+    line-height: 1.5;
+}
+
+.vertical-nav, .theme-toggle, .hamburger, .particles, .cta-button, button, .alert {
+    display: none;
+}
+
+main {
+    margin: 0;
+    padding: 0;
+}
+
+header, section, .form-card, .project-card, .skill-card {
+    margin-bottom: 1cm;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 18pt; }
+h3 { font-size: 14pt; }
+
+img, iframe {
+    display: none;
+}
+
+input, textarea {
+    border: none;
+    background: none;
+    padding: 0.1cm;
+    font-size: 12pt;
+    color: #000000;
+}
+
+input::placeholder, textarea::placeholder {
+    color: transparent;
+}
+
+form {
+    border: 1px solid #000000;
+    padding: 0.5cm;
+}
+
+.projects-grid, .skills-grid, .about-content {
+    display: block;
+}
+
+.project-card, .skill-card {
+    border: 1px solid #000000;
+    padding: 0.5cm;
+    margin-bottom: 0.5cm;
+}
+
+.project-details {
+    display: block !important;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 0.2cm;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 10pt;
+}
