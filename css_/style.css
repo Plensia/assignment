@@ -281,8 +281,10 @@ main {
 }
 
 .project-image img {
-  width: 100%;
+  width: 350px;
+  height: auto;
   border-radius: 8px;
+  justify-content: center;
 }
 
 .project-details {
