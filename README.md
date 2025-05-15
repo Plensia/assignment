@@ -4,6 +4,7 @@ Crafted with 💻 HTML, CSS, and JavaScript for CP 221 Practical Assignment One
 
 🚀 Project Overview
 Welcome to my Personal Portfolio Website, a showcase of my web development skills built to impress potential employers and clients! This multi-page site, developed with HTML, CSS, and JavaScript, follows industry best practices for structure, design, and interactivity. Explore my journey through a sleek, responsive, and accessible interface.
+
 🔗 Live Demo: https://plensia.github.io/assignment/
 
 
